@@ -1,17 +1,24 @@
-# Xojo Bindings for OpenCV
+# Xojo and OpenCV
 ### http://opencv.org/
 ### https://www.xojo.com
 
+## *This binding requires OpenCV 3.0!*
+
 ## Warning
 You must use 32-bit version of OpenCV dynamically linked libraries. 
-Work under progress!
+Work under progress at Xojo for 64-bit!
 
-## Warning
-The code is still under development. This software is provided 'as-is', without any express or implied warranty.
+The code is under development. This software is provided 'as-is', without any express or implied warranty. 
 
-### samples dir
-Several scripts which demonstrate how to use OpenCV with Xojo.
-These scripts allow to play with camera and images.
+## Getting Started
+Very easy. Just unzip the downloaded file and open OpenCVX code with Xojo IDE. Then drag the **OpenCVX folder** to any application requiring OpenCV image processing. **OPenCVX folder** contains different **modules** that give access to numerous OpenCV functions that are declared as External Methods.
+
+Inside each module there is a **constant** (e.g. core, immproc, highgui..) which is linked to  OpenCV libraries. PLease update values according to your platform.
+
+
+## samples dir
+Several programs which demonstrate how to use OpenCV with Xojo are included in the **samples** directory .
+These programs allow to play with camera and images.
 
 
 ## enjoy
