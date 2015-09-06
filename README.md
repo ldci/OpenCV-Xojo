@@ -10,10 +10,18 @@ Work under progress at Xojo for 64-bit!
 
 The code is under development. This software is provided 'as-is', without any express or implied warranty. 
 
-## Getting Started
-Very easy. Just unzip the downloaded file and open OpenCVX code with Xojo IDE. Then drag the **OpenCVX folder** to any application requiring OpenCV image processing. **OPenCVX folder** contains different **modules** that give access to numerous OpenCV functions that are declared as External Methods.
+## More OpenCV functions and samples to come. 
+...
 
-Inside each module there is a **constant** (e.g. core, immproc, highgui..) which is linked to  OpenCV libraries. PLease update values according to your platform.
+
+## Getting Started
+Very easy. Just unzip the downloaded file and open OpenCVX code with Xojo IDE. Then drag the **OpenCVX folder** to any application requiring OpenCV image processing. 
+
+**OPenCVX folder** contains different **modules** that give access to various OpenCV functions that are declared as External Methods.
+
+Inside each module there is a **constant** (e.g. core, immproc, highgui..) which is linked to  OpenCV libraries. 
+
+**PLease update values according to your OS.**
 
 
 ## samples dir
