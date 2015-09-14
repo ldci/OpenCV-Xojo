@@ -15,7 +15,9 @@ Optimization for xojo projects
 
 **2015-09-13: A new module in OpenCV folder (xTools) for converting OpenCV images to Xojo Picture**
 
-** 2015-09-14: New video directory : how to read movies with openCV **
+**2015-09-14: New video directory : how to read movies with openCV**
+
+**2015-09-14: Updated samples for OSX and Windows 10**
 
 
 
