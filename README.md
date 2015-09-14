@@ -3,9 +3,10 @@
 ### https://www.xojo.com
 
 ## *This binding requires OpenCV 3.0!*
+## *Windows users are required to install ffmpeg for movies decoding*##
 
 ## Warning
-You must use 32-bit version of OpenCV dynamically linked libraries. 
+You must use 32-bit version of OpenCV and ffmpeg dynamically linked libraries. 
 Work under progress at Xojo for 64-bit!
 
 The code is under development. This software is provided 'as-is', without any express or implied warranty. 
