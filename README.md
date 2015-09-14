@@ -11,9 +11,13 @@ Work under progress at Xojo for 64-bit!
 The code is under development. This software is provided 'as-is', without any express or implied warranty. 
 
 ## More OpenCV functions and samples to come. 
-**A new module in OpenCV folder (xTools) for converting OpenCV images to Xojo Picture**
-
 Optimization for xojo projects
+
+**2015-09-13: A new module in OpenCV folder (xTools) for converting OpenCV images to Xojo Picture**
+
+** 2015-09-14: New video directory : how to read movies with openCV **
+
+
 
 ## Getting Started
 Very easy. Just unzip the downloaded file and open OpenCVX code with Xojo IDE. Then drag the **OpenCVX folder** to any application requiring OpenCV image processing. 
