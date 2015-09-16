@@ -20,6 +20,9 @@ Optimization for xojo projects
 
 **2015-09-14: Updated samples for OSX and Windows 10**
 
+**2015-09-16: Updated samples with trackbar and mouse events**
+
+
 
 
 ## Getting Started
