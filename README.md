@@ -22,6 +22,8 @@ Optimization for xojo projects
 
 **2015-09-16: Updated samples with trackbar and mouse events**
 
+**2015-09-17: objdetect and calib3d modules implemented**
+
 
 
 
