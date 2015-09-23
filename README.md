@@ -24,6 +24,9 @@ Optimization for xojo projects
 
 **2015-09-17: objdetect and calib3d modules implemented**
 
+**2015-09-23: imgproc and core modules are completed. New samples included**
+
+
 
 
 
