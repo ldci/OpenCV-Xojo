@@ -5,6 +5,13 @@
 ## *This binding requires OpenCV 3.0!*
 ## *Windows users are required to install ffmpeg for movies decoding*##
 
+### February 2016
+New samples added
+
+Pre-compiled libraries for OSX, Linux and Windows added
+
+Enjoy :)
+
 ## Warning
 You must use 32-bit version of OpenCV and ffmpeg dynamically linked libraries. 
 Work under progress at Xojo for 64-bit!
