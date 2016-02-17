@@ -12,6 +12,8 @@ Then path to libs is relative to the included Framework (e.g @executable_path/..
 
 So build app is fully usable in a system where OpenCV is not installed
 
+Note: @executable_path/../Frameworks is only for Mac Users
+Linux and Windows Users have to use absolute path to libs
 
 
 ### February 2016
