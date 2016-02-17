@@ -5,10 +5,17 @@
 ## *This binding requires OpenCV 3.0!*
 ## *Windows users are required to install ffmpeg for movies decoding*##
 
-### February 2016
-New samples added
+### Updated Version
+Based on  Antonio Rinaldi's suggestion: access to OpenCV is  declared once in /xTools as a constant.Easier to adapt or modifiy to new version of OpenCV.
 
-Pre-compiled libraries for OSX, Linux and Windows added
+Then path to libs is relative to the included Framework (e.g @executable_path/../Frameworks/OSX/libopencv_world.3.0.0.dylib)
+
+So build app is fully usable in a system where OpenCV is not installed
+
+
+
+### February 2016
+New samples addedPre-compiled libraries for OSX, Linux and Windows added
 
 Enjoy :)
 
